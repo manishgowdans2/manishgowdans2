@@ -48,7 +48,7 @@ In order to reach me out 🚀
 </h3>
 
 
-   <h3 align="left">
+   <h3 align="Center">
 🎯 Other programming languages that I have worked on are: 
    <br><br>
     <img  src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="50" height="50">
@@ -57,13 +57,13 @@ In order to reach me out 🚀
     <img  src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" width="50" height="50"> 
    </div>
    <br><br>
-   <div alighn="left">🎯 Databases I have worked on are:
+   <div alighn="Center">🎯 Databases I have worked on are:
    <br><br>
     <img  src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="50" height="50"> 
    <img  src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="50" height="50">
   </h3>
    
-   <h3>
+   <h3 align="Center">
  🎯 Being using the following technologies for full stach development:
    <br><br>
     <img  src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" height="50">
@@ -81,7 +81,7 @@ In order to reach me out 🚀
      &nbsp;&nbsp;To build on : &nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="50" height="50"> 
    </h3>
    
-   <h3 align="left">
+   <h3 align="Center">
    🎯 Exploring and upgrading myself in latest technologies like:<br><br>
    <img  src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" width="50" height="50"> 
     <img  src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" width="50" height="50">
@@ -91,7 +91,7 @@ In order to reach me out 🚀
    <img  src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" width="50" height="50">
     <img  src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="50" height="50"> 
 <h3>
-   <h3>
+   <h3 align="Center">
       🎯 Operating Systems that I have explored on:
       <br><br>
       <img  src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" width="50" height="50">
@@ -99,7 +99,7 @@ In order to reach me out 🚀
       <h3>
 
 
-<h3>
+<h3 align="Center">
 🎯 Some of the IDE that I recommend are:
  <img  src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50" height="50">  
 
@@ -108,7 +108,7 @@ In order to reach me out 🚀
  <img  src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="50" height="50">  
  
    <img  src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" width="50" height="50">  
-  <h3>
+  </h3>
    <h3 align="right">
    But be careful with this <a href="#">
  <img  src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" width="50" height="50">  
