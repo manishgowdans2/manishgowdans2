@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋 there, Good to see ya ☺  </h1>
 
-<h3 align="center" > Pursuing Undergraduate as 💻 Computer Science Engineering Student</h3>
+<h3 align="center" > I am currently pursuing Undergraduate as 💻 Computer Science Engineering Student</h3>
 
 ## 🕵️‍♂️ About Me:
 
@@ -135,4 +135,4 @@ Some of the IDE that I recommend are:
 ![Stats](https://github-readme-stats.vercel.app/api?username=manishgowdans2&show_icons=true&theme=radical) -->
 
 <!--  https://github.com/marwin1991/profile-technology-icons/blob/main/README.md#-python -->
-   <h3 align="right"> Do checkout my repositories ☝ </h3>   
+   <h3 align="right"> Do checkout my repositories 🤗 </h3>   
