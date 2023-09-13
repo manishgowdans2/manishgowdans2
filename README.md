@@ -1,19 +1,22 @@
 <h1 align="center">Hello 👋 there, Good to see ya ☺  </h1>
 
 <h3 align="center" > I am currently pursuing Undergraduate as 💻 Computer Science Engineering Student</h3>
-
+<!--
 ## 🕵️‍♂️ About Me:
-
-- :hourglass_flowing_sand: Exploring various technologies and finding realt time solutions to problematic situations
+-->
+<!--
+- :hourglass_flowing_sand: Exploring various technologies and finding real time solutions
 - :rocket: Always ready to solve challenges and develop new things
 - :dart: Explore :fire: and Explode :bomb: with knowledge and implement to gain the experience
-- :zap: Love to create and collaborate for projects, to be a good mentor and work with my team mates 
-
+- :zap: passion for creating and collaborating on projects and dedicated to being a supportive mentor to my team members
+  -->
 <br>
 
 ## ✌ Contact Me:
+<!--
 In order to reach me out 🚀 
 <hr>
+-->
 <p align="center">
    <i>for any queries either mail me</i>
    <br>
@@ -37,7 +40,7 @@ In order to reach me out 🚀
 
 
 
-
+<!--
 ## 🛠 Teck Stacks
 
 <h3 align="Center">  
@@ -119,7 +122,7 @@ In order to reach me out 🚀
 
 
 <hr>
-
+-->
 ## ⚙ Github Status  
 
    <p align="center">
