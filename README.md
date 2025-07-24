@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Manish Gowda NS
 
-🎯 **Software Development Engineer (SDE 1) at Pluralsight**  
-💼 1.6 years of experience (1 year full-time + 6 month internship)  
-📍 Specializing in scalable backend development using **.NET Core**, **Kafka**, and **PostgreSQL**
+🎯 **Software Development Engineer (SDE 1) at Pluralsight**. 
+💼 1.6 years of experience (1 year full-time + 6 month internship).
+📍 Specializing in scalable backend development using **.NET Core**, **Kafka**, and **PostgreSQL**.
 
 ---
 
@@ -18,13 +18,18 @@
 ### ⚙️ Backend & Frameworks
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-Windows_Presentation_Foundation-68217A?style=for-the-badge&logo=windows&logoColor=white)
 ![DDD](https://img.shields.io/badge/DDD-Domain--Driven--Design-blue?style=for-the-badge)
 ![TDD](https://img.shields.io/badge/TDD-Test--Driven--Development-00b894?style=for-the-badge)
 
 ### 🗃️ Database & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Kafka Connect](https://img.shields.io/badge/Kafka_Connect-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Debezium CDC](https://img.shields.io/badge/Debezium-Change_Data_Capture-FE6F00?style=for-the-badge)
 
 ### 🚀 DevOps & Deployment
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -56,12 +61,12 @@
 
 ## 🚀 What I Do
 
-- Build and maintain **high-performance APIs** serving production workloads
-- Optimize backend systems with **up to 4x improvements** in performance
-- Integrate Kafka connectors for **efficient multi-source data ingestion**
-- Lead **end-to-end feature development**, from system design to deployment and monitoring
-- Collaborate with cross-functional teams including frontend, QA, and DevOps
-- Contribute to **secure, stable, and scalable** codebases with a strong focus on clean code and maintainability
+- Build and maintain **high-performance APIs** serving production workloads.
+- Optimize backend systems with **up to 4x improvements** in performance.
+- Integrate Kafka connectors for **efficient multi-source data ingestion**.
+- Lead **end-to-end feature development**, from system design to deployment and monitoring.
+- Collaborate with cross-functional teams including frontend, QA, and DevOps.
+- Contribute to **secure, stable, and scalable** codebases with a strong focus on clean code and maintainability.
 
 ## 📫 Contact
 
