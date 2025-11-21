@@ -1,8 +1,23 @@
 # 👋 Hi, I'm Manish Gowda NS
 
-🎯 **Software Development Engineer (SDE 1) at Pluralsight**. 
-💼 1.6 years of experience (1 year full-time + 6 month internship).
-📍 Specializing in scalable backend development using **.NET Core**, **Kafka**, and **PostgreSQL**.
+🎯 **Software Engineer 1 @ Pluralsight**. 
+
+💼 1.5+ years of experience in building large-scale, high-performance and secure distributed
+backend systems.
+
+📍 Strong proficiency in C#, .NET Core, ASP.NET MVC, .NET Core Web API, EF Core, PostgreSQL,
+Kafka and event-driven architectures, with hands-on experience in deploying containerized services on AWS. Familiar
+with React.js and frontend integration workflows, enabling full-stack collaboration with UI teams.
+
+---
+## 🚀 What I Do
+
+- Build and maintain **high-performance APIs** serving production workloads.
+- Optimize backend systems with **up to 4x improvements** in performance.
+- Integrate Kafka connectors for **efficient multi-source data ingestion**.
+- Lead **end-to-end feature development**, from system design to deployment and monitoring.
+- Collaborate with cross-functional teams including frontend, QA, and DevOps.
+- Contribute to **secure, stable, and scalable** codebases with a strong focus on clean code and maintainability.
 
 ---
 
@@ -15,21 +30,20 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+### 🗃️ Database & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Kafka Connect](https://img.shields.io/badge/Kafka_Connect-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Debezium CDC](https://img.shields.io/badge/Debezium-Change_Data_Capture-FE6F00?style=for-the-badge)
+
 ### ⚙️ Backend & Frameworks
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-Windows_Presentation_Foundation-68217A?style=for-the-badge&logo=windows&logoColor=white)
 ![DDD](https://img.shields.io/badge/DDD-Domain--Driven--Design-blue?style=for-the-badge)
 ![TDD](https://img.shields.io/badge/TDD-Test--Driven--Development-00b894?style=for-the-badge)
-
-### 🗃️ Database & Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Kafka Connect](https://img.shields.io/badge/Kafka_Connect-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Debezium CDC](https://img.shields.io/badge/Debezium-Change_Data_Capture-FE6F00?style=for-the-badge)
 
 ### 🚀 DevOps & Deployment
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -58,15 +72,6 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
-
-## 🚀 What I Do
-
-- Build and maintain **high-performance APIs** serving production workloads.
-- Optimize backend systems with **up to 4x improvements** in performance.
-- Integrate Kafka connectors for **efficient multi-source data ingestion**.
-- Lead **end-to-end feature development**, from system design to deployment and monitoring.
-- Collaborate with cross-functional teams including frontend, QA, and DevOps.
-- Contribute to **secure, stable, and scalable** codebases with a strong focus on clean code and maintainability.
 
 ## 📫 Contact
 
