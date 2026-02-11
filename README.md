@@ -2,12 +2,11 @@
 
 🎯 **Software Engineer 1 @ Pluralsight**. 
 
-💼 1.5+ years of experience in building large-scale, high-performance and secure distributed
+💼 2+ years of experience in building large-scale, high-performance and secure distributed
 backend systems.
 
-📍 Strong proficiency in C#, .NET Core, ASP.NET MVC, .NET Core Web API, EF Core, PostgreSQL,
-Kafka and event-driven architectures, with hands-on experience in deploying containerized services on AWS. Familiar
-with React.js and frontend integration workflows, enabling full-stack collaboration with UI teams.
+📍 Strong proficiency in .NET Core, C#, Kafka, PostgreSQL, and AWS. I specialize in real-time data ingestion and synchronization, 
+designing Kafka Connector based pipelines that cut data latency by up to 90% and enable multi-source data migrations with zero data loss. I have hands-on experience delivering Subscriptions, Gamified features and other business-critical modules end-to-end, built using Modern Architectures, SOLID, Clean Architecture and DDD principles.
 
 ---
 ## 🚀 What I Do
