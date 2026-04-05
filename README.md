@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Manish Gowda NS
 
-🎯 **Software Engineer 1 @ Pluralsight**. 
+🎯 **Software Engineer @ KEKA HR**. 
 
 💼 2+ years of experience in building large-scale, high-performance and secure distributed
 backend systems.
